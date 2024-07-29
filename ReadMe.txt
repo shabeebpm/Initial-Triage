@@ -1,4 +1,4 @@
-This PowerShell script performs various tasks related to Microsoft Defender, system processes, network connections, and more. 
+This PowerShell script collects various files from a live machine such as Microsoft Defender Event Logs, Defender Detection history, Quarantined files, PowerShell Console History, system processes, Console output, network connections, and more during the IR process. 
 
 Below is a detailed explanation of each section:
 
